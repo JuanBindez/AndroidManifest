@@ -1,0 +1,2 @@
+# AndroidManifest
+AndroidManifest.xml
